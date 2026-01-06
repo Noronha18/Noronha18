@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>🏥 Former Sports Medicine Specialist</b> → 💻 Software Engineer (Python) <br/>
+  <b>🏥 Sports Medicine Specialist</b> → 💻 Software Engineer (Python) <br/>
   🥋 Judo Black Belt | 🎓 B.Sc. in Physical Education | 📍 João Pessoa, BR
 </p>
 
