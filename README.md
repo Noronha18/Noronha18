@@ -14,9 +14,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-noronha-filho>/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<emmanuelnazareno@outlook.com>"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/<Noronha18>?tab=repositories"><img src="https://img.shields.io/badge/Repos-View-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emmanuel-noronha-filho/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:emmanuelnazareno@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Noronha18?tab=repositories"><img src="https://img.shields.io/badge/Repos-View-181717?logo=github&logoColor=white" /></a>
 </p>
 
 ---
