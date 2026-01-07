@@ -2,7 +2,7 @@
 
 <!-- Hero (animated “typing” header) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL;Building+High-Performance+AI+Agents;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL;Building+High-Performance+Softwares;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Software+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
