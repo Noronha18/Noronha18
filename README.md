@@ -3,7 +3,7 @@
 <!-- Hero (animated “typing” header) -->
 <p align="center">
   <a href="https://github.com/<SEU_USUARIO>">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Building+management+software+for+fitness+professionals;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Sports+Medicine+Specialist+%7C+B.Sc.+Physical+Education" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Building+management+software+for+fitness+professionals;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Sports+Medicine+Specialist+%7C+Software Engineer" alt="Typing SVG" />
   </a>
 </p>
 
