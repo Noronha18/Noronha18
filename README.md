@@ -65,13 +65,18 @@
 ---
 
 ## 📌 Featured Projects
-- **Personal_System 1.0** — Fitness business management (Python + FastAPI + PostgreSQL + Flet)  
-  Repo: https://github.com/<Noronha18>/<https://github.com/Noronha18/Personal_System1.0>
 
-- **Monaci1.0** — (short one-liner describing what it is)  
-  Repo: https://github.com/<Noronha18>/<[(https://github.com/Noronha18/monaci-api)>
+- **Personal_System 1.0** — Fitness business management system with Desktop UI (Flet), financial tracking, and local persistence.
+  - 🔗 [View Repository](https://github.com/Noronha18/Personal_System1.0)
+
+- **WhatsApp AI Agent** — High-performance Conversational Agent built with FastAPI, Groq (Llama 3), and Clean Architecture. Handles real-time messaging via Twilio Webhooks.
+  - 🔗 [View Repository](https://github.com/Noronha18/whatsapp_agent)
+
+- **Monaci 1.0** — Robust Restaurant Management API featuring atomic transactions, price snapshots, and strict schema validation with Pydantic V2 & SQLAlchemy.
+  - 🔗 [View Repository](https://github.com/Noronha18/monaci-api)
 
 ---
+
 
 ## 📊 GitHub Stats
 <p align="center">
