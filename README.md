@@ -1,11 +1,9 @@
 <!-- Profile README — customize freely -->
 
 <!-- Hero (animated “typing” header) -->
-<p align="center">
-  <a href="https://github.com/Noronha18">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E91E5&center=true&vCenter=true&width=435&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL;Building+High-Performance+APIs;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Clean+Code+Advocate" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL;Building+High-Performance+AI+Agents;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Software+Engineer" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <b>🏥 Sports Medicine Specialist</b> → 💻 Software Engineer (Python) <br/>
