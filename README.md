@@ -1,98 +1,133 @@
-<!-- Profile README — customize freely -->
-
-<!-- Hero (animated “typing” header) -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+FastAPI+%7C+PostgreSQL;Building+High-Performance+Softwares;Judo+Black+Belt+%F0%9F%A5%8B+%7C+Software+Engineer" alt="Typing SVG" />
+
+```
+███████╗ ██████╗ ███████╗████████╗██╗    ██╗ █████╗ ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██║    ██║██╔══██╗██╔══██╗██╔════╝
+███████╗██║   ██║█████╗     ██║   ██║ █╗ ██║███████║██████╔╝█████╗  
+╚════██║██║   ██║██╔══╝     ██║   ██║███╗██║██╔══██║██╔══██╗██╔══╝  
+███████║╚██████╔╝██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
+╚══════╝ ╚═════╝ ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
+
+### Engenheiro de Software Full-Stack
+
+**Python · FastAPI · React · PostgreSQL · Supabase · Docker**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-noronha-filho)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelnazareno@outlook.com)
+[![GitHub](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noronha18?tab=repositories)
+
 </div>
 
-<p align="center">
-  <b>🏥 Sports Medicine Specialist</b> → 💻 Software Engineer (Python) <br/>
-  🥋 Judo Black Belt | 🎓 B.Sc. in Physical Education | 📍 João Pessoa, BR
-</p>
+---
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-noronha-filho/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emmanuelnazareno@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Noronha18?tab=repositories"><img src="https://img.shields.io/badge/Repos-View-181717?logo=github&logoColor=white" /></a>
-</p>
+## Sobre mim
+
+Sou Engenheiro de Software Full-Stack com foco em **Python, FastAPI e React**.
+
+Venho de uma transição de carreira — passei **8 anos gerenciando equipes, analisando métricas de performance e resolvendo problemas sob pressão** como supervisor em academia. Essa experiência me deu algo que código sozinho não ensina: **visão de produto e foco em resultado**.
+
+Hoje aplico essa disciplina no desenvolvimento de software: APIs robustas, arquitetura limpa, testes automatizados e entrega consistente.
+
+- 🔧 Desenvolvendo MVP com **Supabase Edge Functions + Lovable** (primeiro contrato)
+- 🚀 4 projetos full-stack do zero no portfólio
+- 🥋 Faixa preta de Judô — disciplina é meu sistema operacional
+- 📍 João Pessoa, PB — disponível para **remoto ou presencial**
 
 ---
 
-## 🔥 About
-- 🧠 I turn real-world sports/health experience into clean, reliable software.
-- 🧩 Interested in backend architecture, API design, testing, and database modeling.
-- 🥋 Discipline from judo + consistency from coaching = shipping features with quality.
+## 🛠️ Stack Técnica
 
-> “Build systems like a black belt: fundamentals first, then performance.”
-
----
-
-## 🧰 Tech Stack
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### DevOps / Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### Banco de Dados & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 
-### UI (when needed)
-![Flet](https://img.shields.io/badge/Flet-00B7C3?logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=111)
-
----
-
-## 🚀 Current Focus
-- ✅ Building: **Personal_System 1.0** — management app for fitness professionals (clients, attendance, assessments, finances)
-- 🧪 Improving: automated tests (pytest), API robustness, and database design
-- 📚 Learning: advanced Linux, Docker workflows, and scalable backend patterns
-
----
-
-## 🥋 Sports & Tech
-- 🥋 Judo Black Belt: discipline, composure under pressure, continuous improvement.
-- 🏥 Sports medicine mindset: measure → adjust → validate (same loop used in engineering).
-- 🏋️ Real business pain points: software made for coaches, not just “toy projects”.
+### APIs & Integrações
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projetos em Destaque
 
-- **Personal_System 1.0** — Fitness business management system with Desktop UI (Flet), financial tracking, and local persistence.
-  - 🔗 [View Repository](https://github.com/Noronha18/Personal_System1.0)
+### 🏋️ [PTRoster — Portal do Aluno](https://github.com/Noronha18/ptroster-alunos)
+> PWA mobile-first para alunos de personal trainer
 
-- **WhatsApp AI Agent** — High-performance Conversational Agent built with FastAPI, Groq (Llama 3), and Clean Architecture. Handles real-time messaging via Twilio Webhooks.
-  - 🔗 [View Repository](https://github.com/Noronha18/whatsapp_agent)
+Registro de treinos, séries, cargas e check-in de presença — projetado para uso real em academia. UX com no máximo 2 toques por ação, dark theme, sem cadastro pelo aluno.
 
-- **Monaci 1.0** — Robust Restaurant Management API featuring atomic transactions, price snapshots, and strict schema validation with Pydantic V2 & SQLAlchemy.
-  - 🔗 [View Repository](https://github.com/Noronha18/monaci-api)
+`React` `Vite` `Tailwind CSS` `JavaScript` `PWA`
 
 ---
 
+### 🍕 [Monaci Delivery API](https://github.com/Noronha18/monaci-api)
+> API REST production-grade para gestão de restaurantes e delivery
+
+Máquina de estados (FSM) para controle de pedidos, webhooks idempotentes para gateways de pagamento e infraestrutura containerizada com Docker Compose.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Pytest`
+
+---
+
+### 🤖 [Agente de Atendimento (WhatsApp Bot)](https://github.com/Noronha18/whatsapp-bot)
+> Automação de mensagens WhatsApp com IA integrada
+
+20+ endpoints REST, autenticação JWT, banco relacional com Alembic migrations. Reduziu tempo de resposta ao cliente em **60%**.
+
+`Python` `FastAPI` `Twilio API` `Groq` `PostgreSQL` `Docker`
+
+---
+
+### 💪 [Gym API — Sistema de Gestão de Treinamentos](https://github.com/Noronha18/gym-api)
+> Aplicação full-stack completa para personal trainers
+
+Frontend responsivo em React + backend FastAPI com autenticação JWT, CRUD completo, controle de permissões por perfil e documentação automática via Swagger.
+
+`React` `Python` `FastAPI` `PostgreSQL` `Docker` `JWT`
+
+---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<Noronha18>&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Noronha18>&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<!-- Optional: streak stats -->
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=<Noronha18>&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noronha18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noronha18&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Contact
-- LinkedIn: www.linkedin.com/in/emmanuel-noronha-filho
-- Email: emmanuelnazareno@outlook.com
-- Location: João Pessoa, BR
+## 📫 Contato
 
+- 💼 LinkedIn: [linkedin.com/in/emmanuel-noronha-filho](https://linkedin.com/in/emmanuel-noronha-filho)
+- 📧 Email: emmanuelnazareno@outlook.com
+- 📍 João Pessoa, PB — Aberto para oportunidades remotas ou presenciais (CLT ou PJ)
+
+---
+
+<div align="center">
+
+*"Construir software como faixa preta: fundamentos primeiro, depois performance."*
+
+</div>
