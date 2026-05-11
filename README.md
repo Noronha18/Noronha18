@@ -1,14 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-███████╗ ██████╗ ███████╗████████╗██╗    ██╗ █████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-███████╗██║   ██║█████╗     ██║   ██║ █╗ ██║███████║██████╔╝█████╗  
-╚════██║██║   ██║██╔══╝     ██║   ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-███████║╚██████╔╝██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚══════╝ ╚═════╝ ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3ABCF7&center=true&vCenter=true&width=700&lines=Emmanuel+Noronha;Engenheiro+de+Software+Full-Stack;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+production-grade+software+%F0%9F%9A%80)](https://github.com/Noronha18)
 
 ### Engenheiro de Software Full-Stack
 
