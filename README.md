@@ -23,7 +23,7 @@ Venho de uma transição de carreira — passei **8 anos gerenciando equipes, an
 
 Hoje aplico essa disciplina no desenvolvimento de software: APIs robustas, arquitetura limpa, testes automatizados e entrega consistente.
 
-- 🔧 Desenvolvendo MVP com **Supabase Edge Functions + Lovable** (primeiro contrato)
+- 🔧 Desenvolvendo MVP com **Supabase Edge Functions + Lovable**
 - 🚀 4 projetos full-stack do zero no portfólio
 - 🥋 Faixa preta de Judô — disciplina é meu sistema operacional
 - 📍 João Pessoa, PB — disponível para **remoto ou presencial**
